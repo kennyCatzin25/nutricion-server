@@ -9,7 +9,7 @@ return array(
         'mysql' => array(
             'driver'    => 'mysql',
             'host'      => '127.0.0.1',
-            'database'  => 'servicios',
+            'database'  => 'subsecretaria',
             'username'  => 'root',
             'password'  => '',
             'charset'   => 'utf8',
@@ -21,9 +21,9 @@ return array(
         'mysql2' => array(
             'driver'    => 'mysql',
             'host'      => '127.0.0.1',
-            'database'  => 's',
-            'username'  => 'user2',
-            'password'  => 'pass2',
+            'database'  => 'subsecretaria',
+            'username'  => '',
+            'password'  => '',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
